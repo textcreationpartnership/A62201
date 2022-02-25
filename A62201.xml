@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Satyr by way of dialogue between Lucifer and the ghosts of Shaftsbury and Russell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62201</idno>
+            <idno type="STC">Wing S717</idno>
+            <idno type="STC">ESTC R32325</idno>
+            <idno type="EEBO-CITATION">12638387</idno>
+            <idno type="OCLC">ocm 12638387</idno>
+            <idno type="VID">64951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1535:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Satyr by way of dialogue between Lucifer and the ghosts of Shaftsbury and Russell.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Poetry.</term>
+               <term>Russell, William, --  Lord, 1639-1683 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="satire">
+            <pb facs="tcp:64951:1"/>
+            <pb n="1" facs="tcp:64951:1" rendition="simple:additions"/>
+            <head>A SATYR, By way of DIALOGUE Between <hi>Lucifer,</hi> and the Ghoſts of <hi>Shaftſ<g ref="char:EOLhyphen"/>bury</hi> and <hi>Ruſſell.</hi>
+            </head>
+            <sp>
+               <speaker>Shaftſ.</speaker>
+               <l>WElcome, dear Brother Traytor to the Laws;</l>
+               <l>Thrice welcome, bold Eſpouſer of our Cauſe.</l>
+               <l>Infernal Tribes of Fiends their Homage pays,</l>
+               <l>And your falſe Head bedecks with fiery Bays.</l>
+               <l>Heav'n had almoſt o'er Hell a Conqueſt won,</l>
+               <l>Had not your Prudent Conduct theirs out-done:</l>
+               <l>For when the tottering Cauſe did faintly droop,</l>
+               <l>Her Friends being fled, brave you alone ſtood up</l>
+               <l>For her Defence, that you with Potent Hand,</l>
+               <l>And Prudent Heart confounded half the Land:</l>
+               <l>For ſtill ſo ſoon's they view'd your awful Face,</l>
+               <l>Each Rebel did himſelf in's Poſture place,</l>
+               <l>Then with uplifted Voice, and hideous Cries</l>
+               <l>Proclaim'd your Praiſes to the troubled Skies,</l>
+               <l>
+                  <hi>Geneva</hi>'s Hopes had turn'd to damn'd Deſpair,</l>
+               <l>Had not your daring Mind diſperſt her Care.</l>
+               <l>You from her Eyes all Tears clean wip'd away,</l>
+               <l>Baniſh'd her Darkneſs, and confirm'd her Day;</l>
+               <l>And had the juſter Heav'ns adjourn'd my Fate,</l>
+               <l>I'd wrought both Down-fall of the Church and State;</l>
+               <l>Had not th' All-ſeeing Power deſcry'd my Crime,</l>
+               <l>And ſnatch'd me from God's Earth before the Time.</l>
+               <l>What <hi>Judas</hi> or <hi>Achitophel</hi> e'er hatc'd,</l>
+               <l>And more ſhould been by my Adventures match'd;</l>
+               <l>I'd made both King and Biſhop tumble down,</l>
+               <l>I'd rent the Surplice and conſum'd the Crown:</l>
+               <l>Who dar'd but liſp'd the Name of King or Pope,</l>
+               <l>Without a Sentence paſt ſhould ſtretcht a Rope.</l>
+               <l>
+                  <hi>Geneva,</hi> Hell and I, to Heaven and <hi>Rome</hi>
+               </l>
+               <l>In ſpite of Law would ſoon denounc'd their Doom.</l>
+               <l>Your Tub-men Prelat's Fleſh ſhould ſerv'd to feaſt,</l>
+               <l>Becauſe they ſpeak the Language of the Beaſt.</l>
+               <l>With Helliſh Darts againſt both Church and Laws,</l>
+               <l>And rably Guards I'd fortify'd the Cauſe.</l>
+               <l>Three Kingdoms weary'd of a peaceful Reign,</l>
+               <l>Should been embroil'd in Blood with our Deſign.</l>
+               <l>Father ſhould Son, and Children Parents kill'd;</l>
+               <l>But our damn'd Plot by Hell we would fulfill'd;</l>
+               <pb n="2" facs="tcp:64951:2" rendition="simple:additions"/>
+               <l>And when the Fiery Tryal crown'd the Day,</l>
+               <l>Wee'd ſtill been clear'd by <hi>Ignoramus</hi> Sway.</l>
+               <l>In Fine, in Golden Letters each Whigg's Name</l>
+               <l>ſhould blazed be in the Records of Fame.</l>
+               <l>But now too late, I'n vain condole my Day,</l>
+               <l>My Tap was run, I could no longer ſtay.</l>
+               <l>I hope the World knows ſtill I did my worſt,</l>
+               <l>And in promoting Plots was ſtill the firſt:</l>
+               <l>T' each common Vice I was by Nature mov'd,</l>
+               <l>In higher Crimes by Art and Age improv'd:</l>
+               <l>Yet for all this, our Plot's like to decay;</l>
+               <l>Our Leaders faint, and Brethren go aſtray.</l>
+               <l>Oh could the juſter Judge of <hi>Iſrael's</hi> Tribes</l>
+               <l>Found m' <hi>Ignoramus</hi> for Fanatick Bribes,</l>
+               <l>And had your Earthly Jury found thus, ev'n</l>
+               <l>This makes me curſe our Laws ſince us'd in Heav'n.</l>
+               <l>Now with damn'd Furies ſince confin'd to lodge,</l>
+               <l>Wee'll ne'er give o'er, but bear Mankind a Grudge.</l>
+               <l>Let them conſpire above, and wee'll plot under,</l>
+               <l>To furniſh Hell, and all the Priſons plunder.</l>
+            </sp>
+            <sp>
+               <speaker>Ruſſ.</speaker>
+               <l>Why this Addreſs, bold Wretch, dar'ſt th' own thy Guilt?</l>
+               <l>Do'ſt know how many thouſand Bloods thou'ſt ſpilt?</l>
+               <l>Curſt be the day when firſt I ſaw thy Face;</l>
+               <l>I baniſh'd Reaſon to give Treaſon Place.</l>
+               <l>Traytor to God, thy King, and Friend, that's worſe;</l>
+               <l>Crouds that ador'd before, thy Fame does curſe:</l>
+               <l>In Prime, Of the damn'd Plot 'gainſt State and Church,</l>
+               <l>You ſneak't away, and left me in the Lurch,</l>
+               <l>With dull mechanick Monſters, and a Crue</l>
+               <l>Of Thick-skull'd Fools, who did our Snares undoe.</l>
+               <l>Thrice happy Thoughts had ſure poſſeſt my Mind,</l>
+               <l>Had I but made you leave your Head behind:</l>
+               <l>Which had I done, I ſhould enjoy'd your Brains</l>
+               <l>With my poor Head, and ſav'd the Hang-man's Pains.</l>
+               <l>But now alas, the diſmal days are come,</l>
+               <l>Which our Cabals did ſtill deſign for <hi>Rome.</hi>
+               </l>
+               <l>And in Infernal Caves damn'd muſt I lie,</l>
+               <l>Plotting in vain with Devils for Liberty:</l>
+               <l>Nor did I, as ſome Traytors did to peach,</l>
+               <l>To ſave my Soul, nor our black Guilt did preach</l>
+               <l>To <hi>Tory Blades:</hi> For had I cut my Throat,</l>
+               <l>My Blood would cry'd, <hi>A damn'd Fanatick Plot;</hi>
+               </l>
+               <l>But I, true Traytor-like, in Flower of Age,</l>
+               <l>With an undaunted Mind did mount the State;</l>
+               <l>Where to the World I'n ſpite of King and Laws,</l>
+               <l>With my laſt Gaſp of Breath preſt home the Cauſe;</l>
+               <l>Cry'd for our Liberties and Countreys Good,</l>
+               <l>In open Shame is ſhed my guiltleſs Blood,</l>
+               <l>Which ſqueez'd ſalt Tears forth from each Traytor's Eyes;</l>
+               <l>With Sighs and Helliſh Groans they fill'd the Skies:</l>
+               <l>Such bold Examples ſtill prevail much more</l>
+               <l>To ſmother Plots, than any Sham before.</l>
+               <l>I hope there's not one Covenanter left,</l>
+               <l>That is not of his Sence and Soul bereft,</l>
+               <pb n="3" facs="tcp:64951:2"/>
+               <l>Who dares deny he's Debtor for his Breath</l>
+               <l>To my good Service done at th' hour of Death:</l>
+               <l>My Life t' an end renouncing God and King,</l>
+               <l>The Devil, the Dr. and my ſelf did bring.</l>
+               <l>With Reverence I muſt remember's Gown,</l>
+               <l>That ſeldom but at fatal Hours is ſhow'n:</l>
+               <l>And for my ſake I hope he'll ſave my <hi>Watch,</hi>
+               </l>
+               <l>Which I did him preſent with, not Squire <hi>Katch:</hi>
+               </l>
+               <l>Againſt the <hi>Maxims</hi> of both Sence and Reaſon,</l>
+               <l>I bleſt my fatal Hour, and hugg'd my Treaſon.</l>
+               <l>Of two great Ev'ls the greater did I choſe,</l>
+               <l>My Life by Law, not for the Law to loſe.</l>
+               <l>I thank'd my Stars, like ſome <hi>Turk, Jew,</hi> or <hi>Tartar,</hi>
+               </l>
+               <l>That there I dy'd a Traytor, not a Martyr.</l>
+            </sp>
+            <sp>
+               <speaker>Shaftſ.</speaker>
+               <l>Moſt brave audacious Champion of the Cauſe,</l>
+               <l>Our chief Deformer of both Church and Laws:</l>
+               <l>Let's ſtill perſiſt in Vice, ſhun doing Good,</l>
+               <l>Oh could we cool our Tongues in Royal Blood;</l>
+               <l>Old <hi>Noll,</hi> the Devil, proud <hi>Cataline</hi> conſult,</l>
+               <l>What from the worſt of Plots may moſt reſult.</l>
+               <l>Thoſe upſtart Traytors muſt not be compared</l>
+               <l>With one whoſe Family was ever feared,</l>
+               <l>But for my part, you'll grant I'm an Old Rogue,</l>
+               <l>And while on Earth 'mongſt Traytors bore a Vogue;</l>
+               <l>Know by Compulſion you'r ſent here to dwell;</l>
+               <l>But I my ſelf came Volunteer to Hell:</l>
+               <l>Yet next to <hi>Belzebub</hi> and me you ſhall</l>
+               <l>Be ſtill preferr'd before the whole Cabal:</l>
+               <l>For Rebel-like you ſtill contriv'd new Plots,</l>
+               <l>And fill'd each Loyal Scutcheon full of Blots;</l>
+               <l>And in your utmoſt Minute ſhew'd more bright,</l>
+               <l>Than <hi>Phoebus</hi> mounted in's <hi>Meridian</hi> Height.</l>
+               <l>You vouch'd your Blood for Proteſtants was ſpilt;</l>
+               <l>Nay more, confeſt the Fact, deny'd the Guilt.</l>
+               <l>You did not, like mechanick cowardly Fops,</l>
+               <l>Confeſs ſo ſoon's they ſaw their fatal Ropes;</l>
+               <l>But, Traytor-like, joyn'd to the Cauſe new Growth,</l>
+               <l>Expiring, like a Rogue, with Lye in Mouth;</l>
+               <l>By which I hope the Multitude you mov'd</l>
+               <l>To plot a-new, ſince all you ſaid's approv'd:</l>
+               <l>For ſure the Rabble will believe you ſooner</l>
+               <l>Than <hi>Wallcot, Rouſe,</hi> or any Whiggiſh Joyner.</l>
+               <l>Well, let's plot on in ſpite of Laws and Reaſon,</l>
+               <l>We'll pleaſe our ſelves in Flames, contriving Treaſon:</l>
+               <l>We'll ſtill conſpire below to ruine Earth;</l>
+               <l>Till Friends and Foes both curſe our fatal Birth.</l>
+               <l>We'll ſend Advice to <hi>Titus</hi> and your Friend:</l>
+               <l>For Oaths and Pray'rs with them are Blaſts of Wind;</l>
+               <l>And can procure a Pack of Helter Skalters,</l>
+               <l>To furniſh Necks as long as <hi>Katch</hi> can Halters.</l>
+            </sp>
+            <sp>
+               <speaker>Ruſſ.</speaker>
+               <l>Well, ſince poor Mortals can't revoke the Day,</l>
+               <l>When paſt; but to ſucceeding Fate give way</l>
+               <l>muſt, then let damn'd diſpair ſeize every Heart,</l>
+               <l>And Fiends their Helliſh Malice t'us impart.</l>
+               <pb n="4" facs="tcp:64951:3" rendition="simple:additions"/>
+               <l>We'll take the Cov'nant from its Maker's Hand,</l>
+               <l>To's helliſh Laws, and him that firm we'll ſtand;</l>
+               <l>'Gainſt Heav'n and King we'll ſtreight go levy War,</l>
+               <l>Curſt Hoſts of Hell ſhall aid us from afar.</l>
+               <l>Would that the Houſe were once aſſembled here,</l>
+               <l>We'd paſs the Bill in ſpite of any Peer;</l>
+               <l>And if our Plots cannot perplex the Nation,</l>
+               <l>The Devil himſelf we will depoſe from's Station;</l>
+               <l>And if our Shams take not as they're appointed,</l>
+               <l>To touch the Perſon of the Lord's anointed,</l>
+               <l>We'll ſtreight a full Diſcovery then make,</l>
+               <l>And on our Friends a whole Revenge we'll take:</l>
+               <l>For nought but the whole Ruine of Mankind,</l>
+               <l>Can pleaſe a Rebell-Whigg's Blood-thirſty Mind.</l>
+            </sp>
+            <sp>
+               <speaker>Lucifer,</speaker>
+               <l>Bravely reſolv'd, true Whiggs, by Hell, I ſwear,</l>
+               <l>Such ploting Heroes dare not think of Fear.</l>
+               <l>Old <hi>Noll</hi> and I were quite wore out of Hopes,</l>
+               <l>Till now reviv'd by you the Cauſes Props.</l>
+               <l>Now for its ſake and mine we'll march about,</l>
+               <l>To keep the kindled Fire from dying out:</l>
+               <l>New Treaſons I'll convey'n your Speaker's Ears,</l>
+               <l>T' incenſe the Rabble with Seditious Fears;</l>
+               <l>To tell the King's a Tyrant and a Papiſt,</l>
+               <l>Worſe then a <hi>Jew,</hi> yea, worſe than <hi>Turk</hi> or <hi>Atheiſt;</hi>
+               </l>
+               <l>And that he with his Biſhops daily prop</l>
+               <l>Th' Intereſt of the <hi>French King</hi> and the <hi>Pope:</hi>
+               </l>
+               <l>If that's deny'd, I'll bid them mark the Skies,</l>
+               <l>What dreadful flaming Meteors there ariſe.</l>
+               <l>I'll ſay theſe are the Miſſioners of <hi>Rome,</hi>
+               </l>
+               <l>To ſignifie True Proteſtants their Doom:</l>
+               <l>And when, like Deluges the Waters ſtand,</l>
+               <l>Shews that the Beaſt will float within this Land.</l>
+               <l>Let's term the Papiſts dying words but Wind,</l>
+               <l>Equivocating Shamms t' enſnare the blind:</l>
+               <l>And ſince the City Charter has been gone,</l>
+               <l>Both Judge and Jury Papiſts ev'ery one.</l>
+               <l>Swear <hi>Howard</hi> was a Papiſt born and bred,</l>
+               <l>The Joyner a rank Jeſuite by Trade:</l>
+               <l>Tell 'ts more genteeel conſpiring and a ploting,</l>
+               <l>Than Tory-like to Whoring, lye and Sotting.</l>
+               <l>When any Miſchief's acted by our Sotts,</l>
+               <l>Make <hi>Titus</hi> blame his horrid Popiſh Plots;</l>
+               <l>But's Hand is out, 'ts long ſince he kiſt the Book,</l>
+               <l>Which makes me fear his Oaths will ne'er be took:</l>
+               <l>If any frailer Brother ſhould confeſs,</l>
+               <l>Straight have him ſwore a Prieſt in Tradeſ-man's Dreſs;</l>
+               <l>And doubtleſs e'ery Goal before 't be long,</l>
+               <l>Will by the Faithful Traytors be made ſtrong.</l>
+               <l>At laſt with Whiggs when ſurfeited they ſwell,</l>
+               <l>They'll ſpew them forth by Cart-Loads into Hell.</l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year, 1683.</p>
+            <pb facs="tcp:64951:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
